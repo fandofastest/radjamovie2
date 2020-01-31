@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758355588178",
+    "firebase_url": "https://filmapik-57e75.firebaseio.com",
+    "project_id": "filmapik-57e75",
+    "storage_bucket": "filmapik-57e75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758355588178:android:316447b9ca8756ede79b8b",
+        "android_client_info": {
+          "package_name": "com.filmapik.indoxxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758355588178-5l69p08qj20olqa1phiae077j6suonra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9tkdEg53lwiWaR0s-vP59jVMRWtOj_FY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758355588178-5l69p08qj20olqa1phiae077j6suonra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
