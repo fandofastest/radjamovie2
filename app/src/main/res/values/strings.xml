@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name">Fmoviez - Free HD  Movies</string>
+    <string name="app_name">Free HD  Movies</string>
     <!--app_title for main navigation & home title-->
-    <string name="app_title">Fmoviez - Free HD  Movies</string>
+    <string name="app_title">Free HD  Movies</string>
     <string name="app_version">1.0.1</string>
     <string name="contact_email">admin@Fmoviez.fun</string>
     <string name="copyright_text">Copyright @ FilmApik \nAll right reserved</string>

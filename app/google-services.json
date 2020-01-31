@@ -1,34 +1,63 @@
 {
   "project_info": {
-    "project_number": "758355588178",
-    "firebase_url": "https://filmapik-57e75.firebaseio.com",
-    "project_id": "filmapik-57e75",
-    "storage_bucket": "filmapik-57e75.appspot.com"
+    "project_number": "387981890492",
+    "firebase_url": "https://rebahin-e2b65.firebaseio.com",
+    "project_id": "rebahin-e2b65",
+    "storage_bucket": "rebahin-e2b65.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:758355588178:android:316447b9ca8756ede79b8b",
+        "mobilesdk_app_id": "1:387981890492:android:b574460d53b20f81f051b9",
         "android_client_info": {
-          "package_name": "com.filmapik.indoxxi"
+          "package_name": "com.freemovies.indoxxinewhdmovies"
         }
       },
       "oauth_client": [
         {
-          "client_id": "758355588178-5l69p08qj20olqa1phiae077j6suonra.apps.googleusercontent.com",
+          "client_id": "387981890492-1uqb93sdgigro0n8ftf3ut6v6qicb87n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA9tkdEg53lwiWaR0s-vP59jVMRWtOj_FY"
+          "current_key": "AIzaSyASttEM22Zi0Jl5NOdarg8HF2cZmChTJB0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "758355588178-5l69p08qj20olqa1phiae077j6suonra.apps.googleusercontent.com",
+              "client_id": "387981890492-1uqb93sdgigro0n8ftf3ut6v6qicb87n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387981890492:android:ff78173199077190f051b9",
+        "android_client_info": {
+          "package_name": "com.rebahin.indoxxinewhdmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387981890492-1uqb93sdgigro0n8ftf3ut6v6qicb87n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASttEM22Zi0Jl5NOdarg8HF2cZmChTJB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387981890492-1uqb93sdgigro0n8ftf3ut6v6qicb87n.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

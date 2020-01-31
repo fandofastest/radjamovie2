@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.filmapik.indoxxi"
+    package="com.freemovies.indoxxinewhdmovies"
     tools:ignore="MissingLeanbackLauncher">
 
     <uses-feature
@@ -19,7 +19,7 @@
     <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
 
     <application
-        android:name="com.filmapik.indoxxi.indoxxi_utl.MyAppClass"
+        android:name="com.freemovies.indoxxinewhdmovies.rebahin_utl.MyAppClass"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -28,7 +28,7 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="com.filmapik.indoxxi.WebViewActivity"
+        <activity android:name="com.freemovies.indoxxinewhdmovies.WebViewActivity"
             android:screenOrientation="landscape"
             android:theme="@style/FullscreenTheme"></activity>
 
@@ -43,49 +43,49 @@
             android:value="com.google.android.exoplayer2.ext.cast.DefaultCastOptionsProvider" />
 
         <activity
-            android:name="com.filmapik.indoxxi.TermsActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.TermsActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.ReplyActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.ReplyActivity"
             android:label="@string/title_activity_reply"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.filmapik.indoxxi.ProfileActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.ProfileActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.PassResetActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.PassResetActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.SearchActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.SearchActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.SignUpActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.SignUpActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.LoginActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.LoginActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.DetailsActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.DetailsActivity"
             android:configChanges="screenLayout|screenSize|orientation"
             android:label="@string/title_activity_details"
             android:theme="@style/AppTheme.NoActionBar" /> <!-- android:configChanges="screenLayout|screenSize|orientation" -->
         <activity
-            android:name="com.filmapik.indoxxi.MainActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.filmapik.indoxxi.SettingsActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.SettingsActivity"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.SplashscreenActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.SplashscreenActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="portrait"
             android:theme="@style/FullscreenTheme">
@@ -96,19 +96,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.filmapik.indoxxi.ItemMovieActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.ItemMovieActivity"
             android:label="@string/title_activity_item_show"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.filmapik.indoxxi.ItemTVActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.ItemTVActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
         <activity
-            android:name="com.filmapik.indoxxi.ItemSeriesActivity"
+            android:name="com.freemovies.indoxxinewhdmovies.ItemSeriesActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.Nobar" />
-        <activity android:name="com.filmapik.indoxxi.UpdateActivity"/>
+        <activity android:name="com.freemovies.indoxxinewhdmovies.UpdateActivity"/>
     </application>
 
 </manifest>
