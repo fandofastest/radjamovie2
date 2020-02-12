@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.androidsx:rate-me:4.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04d8b17122eaf57a9107f28f96fad825/rate-me-4.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04d8b17122eaf57a9107f28f96fad825/rate-me-4.0.3/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.androidsx/rate-me/4.0.3/20a86df1fa08cc1e7f40978e018d67a5b91a7128/rate-me-4.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.androidsx/rate-me/4.0.3/9abd47629485227e9a38e4159905b8c52a3947f5/rate-me-4.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
